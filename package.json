@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "protobufjs": "^7.5.0",
+    "zstddec": "^0.1.0"
+  }
+}
